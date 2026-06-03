@@ -7,6 +7,10 @@ End-to-End ETL Pipeline on Google Cloud using Pub/Sub, Dataflow, BigQuery, Datap
 
 Designed and implemented an end-to-end ETL pipeline on Google Cloud for processing e-commerce order data. The pipeline ingests source data, transforms records using Dataflow, stores analytics-ready datasets in BigQuery, applies governance using Dataplex, and delivers business insights through Looker Studio dashboards.
 
+## Live Dashboard
+
+https://datastudio.google.com/reporting/f54a31a1-5579-461c-8203-23d6ce137ae1
+
 ## Architecture
 
 Simulated On-Prem Source / Cloud Storage → Pub/Sub → Dataflow → BigQuery → Dataplex Governance → Looker Studio
